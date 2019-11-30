@@ -1,4 +1,5 @@
 # springboot文件上传
+- 源代码　https://github.com/xuwujing/springBoot-study
 - 在application.properties中配置好下载到的路径（服务器路径），注意一下在写路径的时候，/home/jerry/test/需要多写一个/后面加上文件名
 - 在application配置上传文件大小限制
    - 设置上传文件的大小限制 spring.servlet.multipart.max-file-size=100Mb，spring.servlet.multipart.max-request-size=100Mb
